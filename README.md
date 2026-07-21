@@ -1,6 +1,6 @@
 # Hi, I'm Saran Kumar 👋
 
-<p align="center"><b>AI Engineer | Python Developer | Generative AI Developer</b></p>
+<p align="center"><b>AI Engineer | Generative AI Developer | Python Developer </b></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
