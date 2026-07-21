@@ -1,24 +1,42 @@
 # Hi, I'm Saran Kumar 👋
 
-<p align="center"><b>AI Engineer | Generative AI Developer | Python Developer </b></p>
+<p align="center"><b>AI Engineer | Generative AI Developer | Python Developer</b></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%7C+Python+Developer;Building+production-ready+Generative+AI+applications;LLMs+%C2%B7+RAG+%C2%B7+AI+Agents" alt="Typing SVG: AI Engineer, Python Developer, Generative AI Developer" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Python+Developer;Building+production-ready+Generative+AI+applications;LLMs+%C2%B7+RAG+%C2%B7+AI+Agents"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarankumar96&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Sarankumar96&label=Profile%20views&color=58A6FF&style=flat"
+    alt="Profile views"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sarankumar96"><img src="https://img.shields.io/badge/GitHub-Sarankumar96-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- <a href="https://your-portfolio.example"><img src="https://img.shields.io/badge/Portfolio-Coming%20soon-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> -->
-</p>
+  <a href="https://github.com/Sarankumar96">
+    <img src="https://img.shields.io/badge/GitHub-Sarankumar96-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
 
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <!--
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  -->
+</p>
 ---
 
 ## 👨‍💻 About Me
