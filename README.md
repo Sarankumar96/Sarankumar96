@@ -1,4 +1,4 @@
-# Hi, I'm Saran Kumar 👋
+# Hi, I'm Saran Premi 👋
 
 <p align="center"><b>AI Engineer | Generative AI Developer | Python Developer</b></p>
 
