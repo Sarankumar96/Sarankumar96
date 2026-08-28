@@ -40,7 +40,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Developer with **2+ years of professional experience**. Skilled in Python, FastAPI, Generative AI, LLMs, RAG, LangChain, AI Agents, Prompt Engineering, SQL, REST APIs and modern backend development.
+I am an AI Engineer with **2.5+ years of professional experience**. Skilled in Python, FastAPI, Generative AI, LLMs, RAG, LangChain, AI Agents, Prompt Engineering, SQL, REST APIs and modern backend development.
 
 - Focused on **Python, FastAPI, Generative AI, LLMs, RAG, AI Agents, LangChain, and LangGraph**.
 - Interested in turning capable AI workflows into reliable, practical software.
@@ -51,12 +51,12 @@ I am a Software Developer with **2+ years of professional experience**. Skilled 
 ## 🛠️ Tech Stack
 
 - **Languages** — Python, JavaScript, TypeScript, HTML, CSS
-- **Generative AI** — LLMs, RAG, AI Agents, Prompt Engineering, Vector Databases
+- **Generative AI** — LLMs, RAG, AI Agents, Prompt Engineering, Microsoft Foundry
 - **AI Frameworks** — LangChain, Ollama, Hugging Face Transformers, Groq, FAISS
 - **Frontend** — React, Next.js, Redux Toolkit, Tailwind CSS, Ant Design
-- **Backend** — FastAPI, Python, Node.js, Express.js
-- **Databases** — SQL, MySQL, PostgreSQL, MongoDB
-- **Developer Tools** — Git, GitHub, VS Code, Postman, Claude Code
+- **Backend** — FastAPI, REST APIs, SQLAlchemy, Alembic 
+- **Databases** — SQL, MySQL, PostgreSQL, MongoDB, FAISS, Azure AI Search, Qdrant
+- **Developer Tools** — Git, GitHub, VS Code, Cursor, Claude Code, Codex, Postman
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,redux,tailwind,fastapi,nodejs,express,mysql,postgres,mongodb,git,github,vscode,postman&theme=dark" alt="Python, JavaScript, TypeScript, HTML, CSS, React, Next.js, Redux Toolkit, Tailwind CSS, FastAPI, Node.js, Express.js, MySQL, PostgreSQL, MongoDB, Git, GitHub, VS Code, Postman" />
